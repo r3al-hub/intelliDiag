@@ -1,0 +1,2 @@
+# intelliDiag
+AI Diagnsotic Website
